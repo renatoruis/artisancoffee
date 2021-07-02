@@ -6371,7 +6371,8 @@ body.rtl .custom-css-style .elementor-element.elementor-element-5b05cd1 {
 
 .custom-css-style .elementor-element.elementor-element-38383f6.elementor-column.elementor-element[data-element_type=column]>.elementor-column-wrap.elementor-element-populated>.elementor-widget-wrap {
 	align-content: center;
-	align-items: center
+	align-items: center;
+	padding: 5%;
 }
 
 .custom-css-style .elementor-element.elementor-element-38383f6>.elementor-element-populated {
