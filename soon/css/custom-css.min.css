@@ -674,11 +674,12 @@
 
 .custom-css-style .elementor-element.elementor-element-6f23744 {
 	z-index: 3;
-	top: 20px
+	top: 20px;
+	right: 211%;
 }
 
 body:not(.rtl) .custom-css-style .elementor-element.elementor-element-6f23744 {
-	left: 0
+	/* left: 0 */
 }
 
 body.rtl .custom-css-style .elementor-element.elementor-element-6f23744 {
@@ -939,6 +940,9 @@ body.elementor-page-3099>.elementor-motion-effects-container>.elementor-motion-e
 }
 
 @media(max-width:1024px) {
+	body:not(.rtl) .custom-css-style .elementor-element.elementor-element-6f23744 {
+		left: 0
+	}
 	.custom-css-style .elementor-element.elementor-element-8dfe958>.elementor-element-populated {
 		margin: 0;
 		padding: 0
