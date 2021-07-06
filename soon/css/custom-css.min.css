@@ -674,8 +674,8 @@
 
 .custom-css-style .elementor-element.elementor-element-6f23744 {
 	z-index: 3;
-	top: 20px;
-	right: 211%;
+	top: 50px;
+	right: 231%;
 }
 
 body:not(.rtl) .custom-css-style .elementor-element.elementor-element-6f23744 {
@@ -19265,9 +19265,9 @@ body.elementor-page-4582>.elementor-motion-effects-container>.elementor-motion-e
 	padding: 0
 }
 
-.custom-css-style .elementor-element.elementor-element-8c2164d .slider-parallax-wrapper {
+/* .custom-css-style .elementor-element.elementor-element-8c2164d .slider-parallax-wrapper {
 	height: 750px
-}
+} */
 
 .custom-css-style .elementor-element.elementor-element-8c2164d .slider-parallax-wrapper .slide .image-container::before {
 	background: rgba(0, 0, 0, .3)
@@ -19275,7 +19275,7 @@ body.elementor-page-4582>.elementor-motion-effects-container>.elementor-motion-e
 
 .custom-css-style .elementor-element.elementor-element-8c2164d .slider-parallax-wrapper .slide-content {
 	text-align: left;
-	margin-top: 20px
+	/* margin-top: 20px */
 }
 
 .custom-css-style .elementor-element.elementor-element-8c2164d .slider-parallax-wrapper div.slide-content {
