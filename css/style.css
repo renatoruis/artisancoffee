@@ -470,6 +470,11 @@ a:active {
 h1 {
 	font-size: 34px;
 }
+h1.custom-h1 {
+	color: #fff;
+	font-size: 80px;
+    line-height: 1em;
+}
 
 h2 {
 	font-size: 30px;
